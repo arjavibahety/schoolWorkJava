@@ -1,2 +1,2 @@
 # schoolWorkJava
-College assignments done using Java
+Collection of assignments done using Java

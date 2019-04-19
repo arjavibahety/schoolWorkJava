@@ -1,0 +1,3 @@
+new cat Kitty 2 grey
+new duck Duckie 400 quack
+new dog
